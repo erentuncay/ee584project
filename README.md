@@ -1,3 +1,10 @@
+Below is the information regarding MEGA method and its implementations. All of them applies to my work for the EE584 Machine Vision Course Term Project, as well.
+Additionally, I did not upload the dataset I used here, but it can be reached via the following link:
+
+Simply placing the downloaded folder to the current path with "datasets" name is sufficient.
+
+
+
 # MEGA for Video Object Detection
 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
