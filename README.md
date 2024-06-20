@@ -1,7 +1,9 @@
 Below is the information regarding MEGA method and its implementations. All of them applies to my work for the EE584 Machine Vision Course Term Project, as well.
 Additionally, I did not upload the dataset I used here, but it can be reached via the following link:
 
-Simply placing the downloaded folder to the current path with "datasets" name is sufficient.
+https://drive.google.com/file/d/1nwtyPTm_RHWkUVE4CvuAUDoBLg-49M3w/view
+
+Simply placing the "real" and "simulation" folders of the dataset in the "./datasets/customdata" is sufficient. Necessary processings shall be done by the utilities provided in the "customdata".
 
 
 
